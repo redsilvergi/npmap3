@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/npmap3/static/js/main.d9ee0155.js",
+    "static/js/483.052a5c1a.chunk.js": "/npmap3/static/js/483.052a5c1a.chunk.js",
+    "index.html": "/npmap3/index.html",
+    "main.d9ee0155.js.map": "/npmap3/static/js/main.d9ee0155.js.map",
+    "483.052a5c1a.chunk.js.map": "/npmap3/static/js/483.052a5c1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d9ee0155.js"
+  ]
+}
